@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React webplatform
+          Learn React prodigy. This is the CI/CD.
+		  are you there?
         </a>
       </header>
     </div>
